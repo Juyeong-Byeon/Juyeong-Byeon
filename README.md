@@ -11,17 +11,17 @@
 	<table>
     <thead>
       <tr>
-       <th>기간</th><th>활동명</th><th>비고</th>
+       <th>기간</th><th>활동</th><th>비고</th>
       </tr>
     </thead>
     <tbody>
      <tr>
-      <td>2017.03 - 2021.3</td>
+      <td>2017.03 - 2021.03</td>
       <td><a href="http://media.ssu.ac.kr/">숭실대학교 글로벌미디어학부 졸업</a></td>
       <td>차석 졸업 (👨‍🎓 평점 평균 4.28)</td>
     </tr>
     <tr>
-      <td>2019.03 - 2020.6</td>
+      <td>2019.03 - 2020.06</td>
       <td><a href="http://spartan.ssu.ac.kr/">숭실대학교 스파르탄 교육원 융합전공 멘토</a></td>
       <td>융합 전공생을 대상으로 3학기간 C#, Web, js 강의</td>
     </tr>
@@ -32,12 +32,12 @@
     </tr>
     <tr>
       <tr>
-      <td>2021.02 - now</td>
+      <td>2021.02 - </td>
       <td><a href="https://www.jobkorea.co.kr/Recruit/Co_Read/Recruit/C/miridih">미리디 FE enginner</a></td>
       <td><a href="https://www.miricanvas.com/design">미리캔버스 에디터 피쳐 개발(안내 팝업, 동영상 기능, 승인 기능)</a>, <a href="https://www.miricanvas.com/workspace">workspace 협업툴(레이아웃, 설정, 협업용 공유 드라이브, 승인 기능) </a></td>
     </tr>
       <tr>
-      <td>2021.08 - now</td>
+      <td>2021.08 - </td>
       <td><a href="https://contributionacademy.oopy.io/">오픈소스 컨트리뷰션 아카데미</a></td>
       <td><a href="https://github.com/dooboolab/dooboo-ui">dooboo-ui 컨트리뷰터</a></td>
     </tr>
