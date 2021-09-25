@@ -1,6 +1,5 @@
 [![Juyeong Byeon's github stats](https://github-readme-stats.vercel.app/api?username=wndudqus&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <br/>
 <br/>
 
@@ -77,7 +76,7 @@
       <td><a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions">화살표 함수 번역, 잘못된 내용 수정</a></td>
 	  </tr>
     <tr>
-      <td>2021.09.05</td>
+      <td>2021.09.18</td>
       <td><a href="https://github.com/mdn/translated-content/pull/2454">MDN-web docs</a></td>
       <td><a href="https://developer.mozilla.org/ko/docs/Web/HTML/Element/Video">video tag autoplay 속성 번역 개선</a></td>
 	  </tr>
@@ -87,3 +86,8 @@
 
 <br/>
 <br/>
+
+<div align="left">
+<h3> Blog </h3>
+
+## [Blog-Around](https://wndudqus.github.io/Blog-Around/)
