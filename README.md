@@ -1,3 +1,12 @@
+
+<div align="left">
+<h3> github status</h3>
+</div>
+[![Juyeong Byeon's github stats](https://github-readme-stats.vercel.app/api?username=wndudqus&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+
 <div align="left">
 <h3> Bio </h3>
 </div>
@@ -6,8 +15,8 @@
 	<table>
     <thead>
       <tr>
-		    <th>기간</th><th>활동명</th><th>비고</th>
-	    </tr>
+       <th>기간</th><th>활동명</th><th>비고</th>
+      </tr>
     </thead>
     <tbody>
      <tr>
@@ -81,5 +90,3 @@
 
 <br/>
 <br/>
-
-[![Juyeong Byeon's github stats](https://github-readme-stats.vercel.app/api?username=wndudqus&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
