@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 <h3> Bio </h3>
 </div>
 
-<div align="center">
+<div align="left">
 	<table>
     <thead>
       <tr>
@@ -43,11 +43,11 @@
 <br/>
 <br/>
 
-<div align="center">
+<div align="left">
 <h3> Open source </h3>
 </div>
 
-<div align="center">
+<div align="left">
 	<table>
      <thead>
       <tr>
