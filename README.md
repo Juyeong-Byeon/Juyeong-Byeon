@@ -26,7 +26,7 @@
       <td>융합 전공생을 대상으로 3학기간 C#, Web, js 강의</td>
     </tr>
     <tr>
-      <td>2020.06 - 2020.12</td>
+      <td>2020.09 - 2020.12</td>
       <td><a href="https://internnet.hanium.or.kr/">ICT 학점연계 프로젝트 인턴십 (미리디)</a></td>
       <td><a href="https://www.miricanvas.com/design">미리캔버스 에디터 피쳐 개발 (context menu, 작업내역, 페이지번호 등)</a></td>
     </tr>
