@@ -3,6 +3,7 @@
 <h3> github status</h3>
 </div>
 [![Juyeong Byeon's github stats](https://github-readme-stats.vercel.app/api?username=wndudqus&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br/>
 <br/>
@@ -21,7 +22,7 @@
     <tbody>
      <tr>
       <td>2017.03 - 2021.3</td>
-      <td><a heref="http://media.ssu.ac.kr/">숭실대학교 글로벌미디어학부 졸업</a></td>
+      <td><a href="http://media.ssu.ac.kr/">숭실대학교 글로벌미디어학부 졸업</a></td>
       <td>차석 졸업 (👨‍🎓 평점 평균 4.28)</td>
     </tr>
     <tr>
