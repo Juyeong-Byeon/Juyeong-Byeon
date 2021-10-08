@@ -80,8 +80,20 @@
       <td><a href="https://github.com/mdn/translated-content/pull/2454">MDN-web docs</a></td>
       <td><a href="https://developer.mozilla.org/ko/docs/Web/HTML/Element/Video">video tag autoplay 속성 번역 개선</a></td>
 	  </tr>
+     <tr>
+	      <td>2021.10.06</td>
+	      <td><a href="https://dooboo-ui.dooboolab.com/?path=/docs/components-fab--page">dooboo-ui</a></td>
+	      <td><a href="https://github.com/dooboolab/dooboo-ui/pull/141">FAB 버튼 문서화</a></td>
+	  </tr>
+	   <tr>
+	      <td>2021.10.08</td>
+	      <td><a href="https://github.com/mdn/translated-content/pull/2454">dooboo-ui</a></td>
+	      <td><a href="https://github.com/dooboolab/dooboo-ui/pull/144">select box 컴포넌트 호버 스타일 지원</a></td>
+	  </tr>
     </tbody>
 	</table>
+	
+	https://github.com/dooboolab/dooboo-ui/pull/141/files
 </div>
 
 <br/>
