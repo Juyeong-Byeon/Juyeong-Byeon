@@ -92,8 +92,6 @@
 	  </tr>
     </tbody>
 	</table>
-	
-	https://github.com/dooboolab/dooboo-ui/pull/141/files
 </div>
 
 <br/>
