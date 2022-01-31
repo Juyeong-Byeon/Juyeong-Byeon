@@ -90,6 +90,11 @@
 	      <td><a href="https://github.com/mdn/translated-content/pull/2454">dooboo-ui</a></td>
 	      <td><a href="https://github.com/dooboolab/dooboo-ui/pull/144">select box 컴포넌트 호버 스타일 지원</a></td>
 	  </tr>
+	   <tr>
+	      <td>2022.01.05</td>
+	      <td><a href="https://github.com/reactjs/reactjs.org/pull/4209#issue-1094287376">react.js</a></td>
+	      <td><a href="https://reactjs.org/docs/jsx-in-depth.html#spread-attributes">docs 오류 수정</a></td>
+	  </tr>
     </tbody>
 	</table>
 </div>
