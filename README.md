@@ -92,8 +92,13 @@
 	  </tr>
 	   <tr>
 	      <td>2022.01.05</td>
-	      <td><a href="https://github.com/reactjs/reactjs.org/pull/4209#issue-1094287376">react.js</a></td>
+	      <td><a href="https://github.com/reactjs/reactjs.org/pull/4209#issue-1094287376">react.org</a></td>
 	      <td><a href="https://reactjs.org/docs/jsx-in-depth.html#spread-attributes">docs 오류 수정</a></td>
+	  </tr>
+	   <tr>
+	      <td>2022.01.05</td>
+	      <td><a href="https://github.com/reactjs/ko.reactjs.org/pull/423">kr.react.org</a></td>
+	      <td><a href="https://ko.reactjs.org/docs/hooks-faq.html#:~:text=%EC%9E%90%EB%8F%99%20%EB%B3%91%ED%95%A9%EC%9D%B4%20%EA%B7%B8%EB%A6%AC%EC%9A%B4%20%EA%B2%BD%EC%9A%B0%20%EA%B0%9C%EC%B2%B4%20state%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EB%B3%91%ED%95%A9%ED%95%98%EB%8A%94%20%EC%BB%A4%EC%8A%A4%ED%85%80%20useLegacyState%20Hook%EC%9D%84%20%EC%9E%91%EC%84%B1%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%9F%AC%EB%82%98%2C%20%ED%95%A8%EA%BB%98%20%EB%B3%80%EA%B2%BD%EB%90%98%EB%8A%94%20%EA%B0%92%EC%97%90%20%EB%94%B0%EB%9D%BC%20state%EB%A5%BC%20%EC%97%AC%EB%9F%AC%20state%20%EB%B3%80%EC%88%98%EB%A1%9C%20%EB%B6%84%ED%95%A0%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EC%B6%94%EC%B2%9C%ED%95%A9%EB%8B%88%EB%8B%A4.">docs 번역 개선</a></td>
 	  </tr>
     </tbody>
 	</table>
