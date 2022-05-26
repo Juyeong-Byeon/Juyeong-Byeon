@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <tr>
-      <td>2021.02 - </td>
+      <td>2021.02 - 2022.05</td>
       <td><a href="https://www.jobkorea.co.kr/Recruit/Co_Read/Recruit/C/miridih">미리디 FE enginner</a></td>
       <td><a href="https://www.miricanvas.com/design">미리캔버스 에디터 피쳐 개발(안내 팝업, 동영상 기능, 승인 기능)</a>, <a href="https://www.miricanvas.com/workspace">workspace 협업툴(레이아웃, 설정, 협업용 공유 드라이브, 승인 기능) </a></td>
     </tr>
@@ -40,6 +40,12 @@
       <td>2021.08 - </td>
       <td><a href="https://contributionacademy.oopy.io/">오픈소스 컨트리뷰션 아카데미</a></td>
       <td><a href="https://github.com/dooboolab/dooboo-ui">dooboo-ui 컨트리뷰터</a></td>
+    </tr>
+	    <tr>
+      <tr>
+      <td>2022.05 - </td>
+      <td><a href="https://www.modusign.co.kr/">Modusign FE enginner</a></td>
+      <td>모두싸인 FE 개발</td>
     </tr>
    </tbody>
 	</table>
