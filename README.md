@@ -116,4 +116,4 @@
 <div align="left">
 <h3> Blog </h3>
 
-## [Blog-Around](https://wndudqus.github.io/Blog-Around/)
+## [Blog-Around](https://juyeong-byeon.github.io/Blog-Around/)
