@@ -1,8 +1,3 @@
-[![Juyeong Byeon's github stats](https://github-readme-stats.vercel.app/api?username=Juyeong-Byeon&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-<br/>
-
 <div align="left">
 <h3> Bio </h3>
 </div>
@@ -116,4 +111,4 @@
 <div align="left">
 <h3> Blog </h3>
 
-## [Blog-Around](https://juyeong-byeon.github.io/Blog-Around/)
+### [Blog-Around](https://juyeong-byeon.github.io/Blog-Around/)
