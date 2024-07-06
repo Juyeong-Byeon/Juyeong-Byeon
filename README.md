@@ -88,7 +88,7 @@
 	  </tr>
 	   <tr>
 	      <td>2021.10.08</td>
-	      <td><a href="https://github.com/mdn/translated-content/pull/2454">dooboo-ui</a></td>
+	      <td><a href="https://github.com/dooboolab-community/dooboo-ui">dooboo-ui</a></td>
 	      <td><a href="https://github.com/dooboolab/dooboo-ui/pull/144">select box 컴포넌트 호버 스타일 지원</a></td>
 	  </tr>
 	   <tr>
