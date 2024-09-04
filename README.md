@@ -1,6 +1,6 @@
 
 <div align="left">
-<h3> Intto </h3>
+<h3> Intro </h3>
 I am Juyeong Byeon, a Front-End Developer.
 I am passionate about developing front-end applications that involve a lot of user interaction. 
 I find the most fulfillment in creating software that satisfies users and seeing positive feedback from them. After all, software exists to serve people. 🙂
