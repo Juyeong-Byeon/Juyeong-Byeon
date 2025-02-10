@@ -43,9 +43,14 @@ I aspire to create services that solve real-life problems for people. That’s w
       <td><a href="https://github.com/dooboolab/dooboo-ui">dooboo-ui Contributor</a></td>
     </tr>
     <tr>
-      <td>2022.05 - </td>
+      <td>2022.05 - 2025.01 </td>
       <td><a href="https://www.modusign.co.kr/">Modusign FE Engineer</a></td>
       <td>FE Development at Modusign</td>
+    </tr>
+  <tr>
+      <td>2025.01 - </td>
+      <td><a href="https://zklend.com/">zkLend FE Engineer</a></td>
+      <td>FE Development at zkLend</td>
     </tr>
    </tbody>
 	</table>
