@@ -49,7 +49,7 @@ I aspire to create services that solve real-life problems for people. That’s w
     </tr>
   <tr>
       <td>2025.01 - </td>
-      <td><a href="https://strobe.finance/">strobe-protocol Engineer</a></td>
+      <td><a href="https://strobe.finance/">strobe-protocol SW Engineer</a></td>
       <td>FE Development at strobe-protocol money market on xrpl</td>
     </tr>
    </tbody>
